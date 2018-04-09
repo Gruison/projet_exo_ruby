@@ -1,6 +1,10 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+Nom:
+Lucas Miailhes
+Andreas Banelli
+
 ### Set up instructions
 
 1. Fork this repo
